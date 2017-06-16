@@ -13,3 +13,7 @@ h1 {
 .friend.p {
     text-transform: uppercase;
 }
+
+.text-center {
+    text-align: center;
+}
