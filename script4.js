@@ -12,7 +12,7 @@ function singFriends() {
     loops(f);
     }
 
-function loops(f) {
+function loops(friends[f]) {
     console.log ('Now ' + [f] + ' jumps in' + '!');
     for (var i = 99; i > 0; i--) {
         if (i > 2) {
